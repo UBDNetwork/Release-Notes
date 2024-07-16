@@ -1,0 +1,14 @@
+### Release Notes - 15.07.24
+
+#### New Features and Improvements
+
+1. **Adaptive Design Enhancements**
+   - Improved adaptive design for mobile and tablet views on the referral page.
+   - Improve invite code logic.
+
+2. **UI Adjustments**
+   - Adjusted adaptive design elements and color issues.
+   - Improved registration process.
+
+3. **Authorization Testing**
+   - Conducted tests on the authorization process, with updates for improvement underway.
