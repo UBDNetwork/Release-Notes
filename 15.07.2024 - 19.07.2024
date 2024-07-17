@@ -2,5 +2,7 @@
 
 #### New Features and Improvements
 
-1. **Wallet Integration**
-- Improved TrustWallet web connection.
+1. **UI and UX Fixes**
+   - Fixed the cause of scrolling on the page.
+   - Changed the style of the header on the UBDN page.
+   - Fixed the button theme.
