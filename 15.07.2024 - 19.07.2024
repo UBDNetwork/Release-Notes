@@ -4,5 +4,4 @@
 
 1. **UI and UX Fixes**
    - Fixed the cause of scrolling on the page.
-   - Changed the style of the header on the page.
-   - Added the ability to automatically select the cryptocurrency network based on URL parameters.
+   - Layout of the new main page from the template.
