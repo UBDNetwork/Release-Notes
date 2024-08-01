@@ -4,5 +4,4 @@
 
 1. **UI and UX Fixes**
    - Improved the main page according to the new requirements.
-   - Fixed the adaptive layouts on the social media page for mobile.
-   - Sidebar has been designed, history page implemented, burger menu created
+   - New header and QR modal added.
