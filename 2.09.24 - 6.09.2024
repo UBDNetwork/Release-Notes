@@ -1,0 +1,9 @@
+### Release Notes 2.09.24 - 6.09.2024
+
+#### New Features and Improvements
+
+1. **UI and UX Fixes**
+   - Improved the main page according to the new requirements.
+   - Implemented transaction creation.   
+   - Added new 404 page.
+   - Fixed wallet connections.
