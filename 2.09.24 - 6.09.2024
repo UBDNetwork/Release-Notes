@@ -5,5 +5,5 @@
 1. **UI and UX Fixes**
    - Improved the main page according to the new requirements.
    - Implemented transaction creation.   
-   - Added new 404 page.
+   - Corrected 404 page.
    - Fixed wallet connections.
