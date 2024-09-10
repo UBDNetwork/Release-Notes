@@ -1,0 +1,8 @@
+### Release Notes 9.09.24 - 13.09.2024
+
+#### New Features and Improvements
+
+1. **UI and UX Fixes**
+   - Improved the main page according to the new requirements.
+   - The non-arrival of the execute has been fixed if the signer needs 1 signature for the one transaction.
+   - Notifications alarm added.
