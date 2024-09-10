@@ -6,4 +6,4 @@
    - Improved the main page according to the new requirements.
    - The non-arrival of the execute has been fixed if the signer needs 1 signature for the one transaction.
    - Notifications alarm added.
-   - Ready for prod 2-6 blocks.
+   - Ready for prod 2-6 blocks
