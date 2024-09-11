@@ -5,5 +5,6 @@
 1. **UI and UX Fixes**
    - Improved the main page according to the new requirements.
    - The non-arrival of the execute has been fixed if the signer needs 1 signature for the one transaction.
-   - Notifications alarm added.
-   - Ready for prod 2-6 blocks.
+   - Date localization
+   - Add a button on SWAP in the text (Hold 1024)
+   - Fix the filter logic for Main dashboard / History.
