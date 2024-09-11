@@ -7,5 +7,5 @@
    - The non-arrival of the execute has been fixed if the signer needs 1 signature for the one transaction.
    - Date localization
    - Add a button on SWAP in the text (Hold 1024)
-   - Fix the filter logic for Main dashboard / History.
+   - Fix the filter logic for Main dashboard / History
   - Incorrect page state upon initial user connection /login.
