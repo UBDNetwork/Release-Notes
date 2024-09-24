@@ -1,0 +1,14 @@
+### Release Notes 23.09.24 - 27.09.2024
+
+#### New Features and Improvements
+
+1. **UI and UX Fixes**
+   - The non-arrival of the execute has been fixed if the signer needs 1 signature for the one transaction
+   - Date localization
+   - Add a button on SWAP in the text (Hold 1024)
+   - Fix the filter logic for Main dashboard / History
+   - Animation fixes for "Main" page
+   - Any fixes for "Main" page
+   - Added optimization for "Main" page
+   - The block with monkeys has been created 
+   - A fixed header has been created.
